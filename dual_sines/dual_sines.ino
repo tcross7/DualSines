@@ -135,7 +135,7 @@ void setup()
 void loop() 
 {
     draw_dual_sines();
-    delay(100);
+    delay(1000);
     matrix.fillScreen(0); // clear the screen
 
 }
